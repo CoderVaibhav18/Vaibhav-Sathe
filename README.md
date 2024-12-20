@@ -1,4 +1,3 @@
-![Header](./github-header-image (7).png)
 <h3 align="center">Hi 👋, I'm Vaibhav Sathe</h3>
 <h4 align="center">Eat. Sleep. Code. Repeat. 🍕💻🔁</h4>
 
