@@ -5,7 +5,13 @@
 
 
 # 💫 About Me:
-🔭 I’m a B.Tech CSE Student<br>🌱 I’m currently into Web Development<br>👩🏻‍💻 I’m currently learning Data Structures & Algorithms <br>👯 I like contributing to OpenSource Projects<br>👨‍💻 Visit My Profile<br>📫 How to reach me vaibhav.sathe.159@gmail.com<br>👨‍💻 My recent project - Uber clone
+- 🔭 I’m a B.Tech CSE Student<br>
+- 🌱 I’m currently into Web Development<br>
+- 👩🏻‍💻 I’m currently learning Data Structures & Algorithms <br>
+- 👯 I like contributing to OpenSource Projects<br>
+- 👨‍💻 Visit My Profile<br>
+- 📫 How to reach me vaibhav.sathe.159@gmail.com<br>
+- 👨‍💻 My recent project - Uber clone
 
 
 ## 🌐 Socials:
