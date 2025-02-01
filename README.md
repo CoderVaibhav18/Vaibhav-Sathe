@@ -33,6 +33,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CoderVaibhav18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## ❤ Views and Followers
+<a href="https://github.com/CoderVaibhav18/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=CoderVaibhav18">
+</a>
+<a href="https://github.com/CoderVaibhav18?tab=followers"><img src="https://img.shields.io/github/followers/CoderVaibhav18?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=CoderVaibhav18&icon=9&color=1)](https://visitcount.itsvg.in)
 
