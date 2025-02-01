@@ -9,8 +9,8 @@
 - 🌱 I’m currently into Web Development<br>
 - 👩🏻‍💻 I’m currently learning Data Structures & Algorithms <br>
 - 👯 I like contributing to OpenSource Projects<br>
-- 👨‍💻 Visit My Profile<br>
-- 📫 How to reach me vaibhav.sathe.159@gmail.com<br>
+- 👨‍💻 Visit **[My Profile](https://github.com/CoderVaibhav18)**<br>
+- 📫 How to reach me **vaibhav.sathe.159@gmail.com**<br>
 - 👨‍💻 My recent project - Uber clone
 
 
