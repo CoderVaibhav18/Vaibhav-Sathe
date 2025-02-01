@@ -1,3 +1,9 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. I'm Lovely</h1>
+<h3 align="center">|| A Tech Enthusiast & Software Developer ||</h3>
+
+
 # 💫 About Me:
 🔭 I’m a B.Tech CSE Student<br>🌱 I’m currently into Web Development<br>👩🏻‍💻 I’m currently learning Data Structures & Algorithms <br>👯 I like contributing to OpenSource Projects<br>👨‍💻 Visit My Profile<br>📫 How to reach me vaibhav.sathe.159@gmail.com<br>👨‍💻 My recent project - Uber clone
 
