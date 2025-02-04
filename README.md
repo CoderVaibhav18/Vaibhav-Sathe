@@ -24,19 +24,19 @@
 
 <p align="center">
     <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
+        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false"/>
+        <img  alt="Lilesh Bawane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </a>
 </p>
 
