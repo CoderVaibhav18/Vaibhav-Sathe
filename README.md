@@ -68,12 +68,6 @@
 </a>
 <a href="https://github.com/CoderVaibhav18?tab=followers"><img src="https://img.shields.io/github/followers/CoderVaibhav18?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center">
-    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img  alt="Lilesh Bawane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false"/>
-     </a>
-</p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CoderVaibhav18&icon=9&color=1)](https://visitcount.itsvg.in)
