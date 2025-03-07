@@ -46,7 +46,7 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-    <a href="https://github.com/DHEERAJCodes08/github-readme-streak-stats">
+    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
     </a>
 </p>
@@ -55,7 +55,7 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-    <a href="https://github.com/DHEERAJCodes08/github-readme-streak-stats">
+    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-contributor-stats.vercel.app/api?username=CoderVaibhav18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
     </a>
 </p>
