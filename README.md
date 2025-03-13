@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=CoderVaibhav18" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=CoderVaibhav18&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
