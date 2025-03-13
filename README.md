@@ -11,7 +11,7 @@
 - 👯 I like contributing to OpenSource Projects<br>
 - 👨‍💻 Visit **[My Profile](https://github.com/CoderVaibhav18)**<br>
 - 📫 How to reach me **vaibhav.sathe.159@gmail.com**<br>
-- 👨‍💻 My recent project - Uber clone
+- 👨‍💻 My recent project - **[AI Developer](https://github.com/CoderVaibhav18/AI-Developer)**
 
 
 ## 🌐 Socials:
