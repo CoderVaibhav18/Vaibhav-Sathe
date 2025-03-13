@@ -30,6 +30,10 @@
 </p>
 
 <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=CoderVaibhav18" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
     <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
         <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </a>
@@ -66,7 +70,6 @@
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=CoderVaibhav18&theme=highcontrast)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=CoderVaibhav18&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
