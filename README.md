@@ -23,14 +23,17 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
         <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
     </a>
+</p>
+
+<p>
     <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
         <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </a>
-</div>
+</p>
 
 
 ## 🏆 GitHub Trophies
