@@ -29,9 +29,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img  alt="Lilesh Bawane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false"/>
-     </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CoderVaibhav18&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
