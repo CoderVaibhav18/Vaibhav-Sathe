@@ -9,7 +9,7 @@
 - 🌱 I’m currently into Web Development<br>
 - 👩🏻‍💻 I’m currently learning Data Structures & Algorithms <br>
 - 👯 I like contributing to OpenSource Projects<br>
-- 👨‍💻 Visit **[My Profile](https://github.com/CoderVaibhav18)**<br>
+- 👨‍💻 Visit **[My Profile](https://vaibhavsathe-portfolio.vercel.app/)**<br>
 - 📫 How to reach me **vaibhav.sathe.159@gmail.com**<br>
 - 👨‍💻 My recent project - **[AI Developer](https://github.com/CoderVaibhav18/AI-Developer)**
 
