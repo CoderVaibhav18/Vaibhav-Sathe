@@ -37,7 +37,7 @@
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </a>
 </p>
 
