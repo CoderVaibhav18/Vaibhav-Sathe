@@ -9,9 +9,8 @@
 - 🌱 I’m currently into Web Development<br>
 - 👩🏻‍💻 I’m currently learning Java Spring boot<br>
 - 👯 I like contributing to OpenSource Projects<br>
-- 👨‍💻 Visit **[My Profile](https://vaibhavsathe-portfolio.vercel.app/)** & **[Portfolio](https://vaibhavsathe-portfolio.vercel.app/)**<br>
+- 👨‍💻 Visit **[Portfolio](https://vaibhav-tech.vercel.app/)**<br>
 - 📫 How to reach me **vaibhav.sathe.159@gmail.com**<br>
-- 👨‍💻 My recent project - **[AI Developer](https://github.com/CoderVaibhav18/AI-Developer)**
 
 
 ## 🌐 Socials
@@ -27,29 +26,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
+        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=CoderVaibhav18&theme=highcontrast" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=vaibhavCodes18&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
+    <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
         <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhav18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </a>
 </p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CoderVaibhav18&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vaibhavCodes18&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
+    <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
     </a>
 </p>
@@ -58,21 +57,21 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-    <a href="https://github.com/CoderVaibhav18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-contributor-stats.vercel.app/api?username=CoderVaibhav18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+    <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-contributor-stats.vercel.app/api?username=vaibhavCodes18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
     </a>
 </p>
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=CoderVaibhav18&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/CoderVaibhav18/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=CoderVaibhav18">
+<a href="https://github.com/vaibhavCodes18/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vaibhavCodes18">
 </a>
-<a href="https://github.com/CoderVaibhav18?tab=followers"><img src="https://img.shields.io/github/followers/CoderVaibhav18?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vaibhavCodes18?tab=followers"><img src="https://img.shields.io/github/followers/vaibhavCodes18?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CoderVaibhav18&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vaibhavCodes18&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
